@@ -1,0 +1,13 @@
+C:\_Data\Documents\GitHub\StepOut\WyGood.StepOut\bin\Debug\WyGood.StepOut.dll
+C:\_Data\Documents\GitHub\StepOut\WyGood.StepOut\bin\Debug\WyGood.StepOut.pdb
+C:\_Data\Documents\GitHub\StepOut\WyGood.StepOut\bin\Debug\Fitbit.dll
+C:\_Data\Documents\GitHub\StepOut\WyGood.StepOut\bin\Debug\RestSharp.dll
+C:\_Data\Documents\GitHub\StepOut\WyGood.StepOut\bin\Debug\Fitbit.pdb
+C:\_Data\Documents\GitHub\StepOut\WyGood.StepOut\bin\Debug\RestSharp.xml
+C:\_Data\Documents\GitHub\StepOut\WyGood.StepOut\obj\Debug\WyGood.StepOut.csprojResolveAssemblyReference.cache
+C:\_Data\Documents\GitHub\StepOut\WyGood.StepOut\obj\Debug\WyGood.StepOut.dll
+C:\_Data\Documents\GitHub\StepOut\WyGood.StepOut\obj\Debug\WyGood.StepOut.pdb
+C:\_Data\Documents\GitHub\StepOut\WyGood.StepOut\bin\Debug\Facebook.dll
+C:\_Data\Documents\GitHub\StepOut\WyGood.StepOut\bin\Debug\Facebook.pdb
+C:\_Data\Documents\GitHub\StepOut\WyGood.StepOut\bin\Debug\Facebook.xml
+C:\_Data\Documents\GitHub\StepOut\WyGood.StepOut\bin\Debug\WyGood.StepOut.XML

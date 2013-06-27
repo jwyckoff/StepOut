@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="AccessTokenUrl property" Url="html/a108a09e-c941-a172-18b0-6d1588b895ec.htm" />
+  <HelpKINode Title="ApplicationName property" Url="html/77e2d30c-a86f-7118-7f31-2125e6ebfaf2.htm" />
+  <HelpKINode Title="AuthorizeUrl property" Url="html/b2aefa39-a182-842b-8231-09517bfd1fc2.htm" />
+  <HelpKINode Title="Class1 class">
+    <HelpKINode Title="Class1 Class" Url="html/8f4ac734-63c3-52e3-f153-fb7fb24d357e.htm" />
+    <HelpKINode Title="Class1 Members" Url="html/b5df8a10-0811-1d15-8e12-7a7cd58455fd.htm" />
+    <HelpKINode Title="about Class1 class" Url="html/8f4ac734-63c3-52e3-f153-fb7fb24d357e.htm" />
+    <HelpKINode Title="all members" Url="html/b5df8a10-0811-1d15-8e12-7a7cd58455fd.htm" />
+    <HelpKINode Title="constructor" Url="html/ecf95537-898c-a775-a80e-484c63fa7c5d.htm" />
+    <HelpKINode Title="methods" Url="html/c469bc57-6763-b2b6-9bf4-503d8d39f397.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Class1.Class1 constructor" Url="html/ecf95537-898c-a775-a80e-484c63fa7c5d.htm" />
+  <HelpKINode Title="Class1.DoFacebook method" Url="html/400ce633-a63a-6ecf-af16-fadcb1850908.htm" />
+  <HelpKINode Title="Constants class">
+    <HelpKINode Title="Constants Class" Url="html/d0f6e8fb-bb9a-963a-049d-905324d01e91.htm" />
+    <HelpKINode Title="Constants Members" Url="html/94b1ab56-d141-0d25-ce51-d974ac58e921.htm" />
+    <HelpKINode Title="about Constants class" Url="html/d0f6e8fb-bb9a-963a-049d-905324d01e91.htm" />
+    <HelpKINode Title="all members" Url="html/94b1ab56-d141-0d25-ce51-d974ac58e921.htm" />
+    <HelpKINode Title="methods" Url="html/6fd8b552-5b52-84d2-2fcf-0703be964368.htm" />
+    <HelpKINode Title="properties" Url="html/f5661e9b-b4d6-2731-6264-5dd6dbc6d0f3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Constants.AccessTokenUrl property" Url="html/a108a09e-c941-a172-18b0-6d1588b895ec.htm" />
+  <HelpKINode Title="Constants.ApplicationName property" Url="html/77e2d30c-a86f-7118-7f31-2125e6ebfaf2.htm" />
+  <HelpKINode Title="Constants.AuthorizeUrl property" Url="html/b2aefa39-a182-842b-8231-09517bfd1fc2.htm" />
+  <HelpKINode Title="Constants.ConsumerKey property" Url="html/d5cb98a9-4ca1-58a7-c5e9-aa8a31e50e3f.htm" />
+  <HelpKINode Title="Constants.ConsumerSecret property" Url="html/13d2dab2-e1a8-8264-70a5-df1480d2655e.htm" />
+  <HelpKINode Title="Constants.RequestTokenUrl property" Url="html/7305c6ec-3fc7-52d8-fae0-98d4ad21c31b.htm" />
+  <HelpKINode Title="ConsumerKey property" Url="html/d5cb98a9-4ca1-58a7-c5e9-aa8a31e50e3f.htm" />
+  <HelpKINode Title="ConsumerSecret property" Url="html/13d2dab2-e1a8-8264-70a5-df1480d2655e.htm" />
+  <HelpKINode Title="DoFacebook method" Url="html/400ce633-a63a-6ecf-af16-fadcb1850908.htm" />
+  <HelpKINode Title="RequestTokenUrl property" Url="html/7305c6ec-3fc7-52d8-fae0-98d4ad21c31b.htm" />
+  <HelpKINode Title="WyGood.StepOut namespace" Url="html/9ab3730a-62a1-5946-3be4-f8112a27ca11.htm" />
+  <HelpKINode Title="WyGood.StepOut.Class1 class">
+    <HelpKINode Title="Class1 Class" Url="html/8f4ac734-63c3-52e3-f153-fb7fb24d357e.htm" />
+    <HelpKINode Title="Class1 Members" Url="html/b5df8a10-0811-1d15-8e12-7a7cd58455fd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WyGood.StepOut.FitBit namespace" Url="html/be88c892-db8d-6ecd-43d9-d9f883211130.htm" />
+  <HelpKINode Title="WyGood.StepOut.FitBit.Constants class">
+    <HelpKINode Title="Constants Class" Url="html/d0f6e8fb-bb9a-963a-049d-905324d01e91.htm" />
+    <HelpKINode Title="Constants Members" Url="html/94b1ab56-d141-0d25-ce51-d974ac58e921.htm" />
+  </HelpKINode>
+</HelpKI>

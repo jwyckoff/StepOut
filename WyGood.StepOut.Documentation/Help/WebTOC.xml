@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="e68adcc7-e987-4d72-8e18-2117c164d6d1" Title="WyGood.StepOut Namespace" Url="html/9ab3730a-62a1-5946-3be4-f8112a27ca11.htm">
+    <HelpTOCNode Id="7d4f2eba-0c37-41c0-b974-831ae3d71853" Title="Class1 Class" Url="html/8f4ac734-63c3-52e3-f153-fb7fb24d357e.htm">
+      <HelpTOCNode Title="Class1 Members" Url="html/b5df8a10-0811-1d15-8e12-7a7cd58455fd.htm" />
+      <HelpTOCNode Title="Class1 Constructor " Url="html/ecf95537-898c-a775-a80e-484c63fa7c5d.htm" />
+      <HelpTOCNode Id="de69bcc3-21c7-4f7d-b675-650f9c2e390b" Title="Class1 Methods" Url="html/c469bc57-6763-b2b6-9bf4-503d8d39f397.htm">
+        <HelpTOCNode Title="DoFacebook Method " Url="html/400ce633-a63a-6ecf-af16-fadcb1850908.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="31fdf3b2-9fde-45f5-91cb-89a1e8fd3a4a" Title="WyGood.StepOut.FitBit Namespace" Url="html/be88c892-db8d-6ecd-43d9-d9f883211130.htm">
+    <HelpTOCNode Id="3ec3a28f-7ac1-4bce-a217-f8fd69847af8" Title="Constants Class" Url="html/d0f6e8fb-bb9a-963a-049d-905324d01e91.htm">
+      <HelpTOCNode Title="Constants Members" Url="html/94b1ab56-d141-0d25-ce51-d974ac58e921.htm" />
+      <HelpTOCNode Title="Constants Methods" Url="html/6fd8b552-5b52-84d2-2fcf-0703be964368.htm" />
+      <HelpTOCNode Id="9ecde921-c38b-4ddd-ba74-a348c2805b24" Title="Constants Properties" Url="html/f5661e9b-b4d6-2731-6264-5dd6dbc6d0f3.htm">
+        <HelpTOCNode Title="AccessTokenUrl Property " Url="html/a108a09e-c941-a172-18b0-6d1588b895ec.htm" />
+        <HelpTOCNode Title="ApplicationName Property " Url="html/77e2d30c-a86f-7118-7f31-2125e6ebfaf2.htm" />
+        <HelpTOCNode Title="AuthorizeUrl Property " Url="html/b2aefa39-a182-842b-8231-09517bfd1fc2.htm" />
+        <HelpTOCNode Title="ConsumerKey Property " Url="html/d5cb98a9-4ca1-58a7-c5e9-aa8a31e50e3f.htm" />
+        <HelpTOCNode Title="ConsumerSecret Property " Url="html/13d2dab2-e1a8-8264-70a5-df1480d2655e.htm" />
+        <HelpTOCNode Title="RequestTokenUrl Property " Url="html/7305c6ec-3fc7-52d8-fae0-98d4ad21c31b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
