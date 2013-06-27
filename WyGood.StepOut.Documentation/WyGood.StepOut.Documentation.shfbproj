@@ -16,7 +16,7 @@
     <Name>WyGood.StepOut.Documentation</Name>
     <!-- SHFB properties -->
     <FrameworkVersion>.NET Framework 4.5</FrameworkVersion>
-    <OutputPath>.\Help\</OutputPath>
+    <OutputPath>..\..\..\..\Google Drive\Project Freedom\60 - Live\S001-4\Help\</OutputPath>
     <HtmlHelpName>WyGood.StepOut.Documentation</HtmlHelpName>
     <Language>en-US</Language>
     <BuildAssemblerVerbosity>OnlyWarningsAndErrors</BuildAssemblerVerbosity>
