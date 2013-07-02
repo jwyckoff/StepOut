@@ -29,11 +29,12 @@ namespace SampleApp
 
             //Example of getting the Auth credentials for the first time by directoring the
             //user to the fitbit site to get a PIN. 
+			// GitHub test from Andy
             var consumerKey = "b3d888281c9b4e098c26c6d1ce4e9d57";
             var consumerSecret = "dc6f84c589c341789967b57e83084572";
             var requestTokenUrl = "http://api.fitbit.com/oauth/request_token";
             var accessTokenUrl = "http://api.fitbit.com/oauth/access_token";
-            var authorizeUrl = "http://www.fitbit.com/oauth/authorize";
+            var authorizeUrl = "http://www.fitbit.com/oauth/authorize"; 
 
             var a = new Authenticator(consumerKey, consumerSecret, requestTokenUrl, accessTokenUrl, authorizeUrl);
             var url = a.GetAuthUrlToken();
